@@ -1,7 +1,7 @@
 ---
 title: "Test Quarto"
 author: "Sequoia Fellenbaum"
-format: html
+format: gfm
 ---
 
 ## Quarto
